@@ -89,7 +89,7 @@ class Body extends StatelessWidget {
                         fontWeight: FontWeight.bold)),
                 SizedBox(height: 15),
                 Text(
-                    "SPS_Yim Siden Cambodia Phone Accessories Store is the shop that offers variety of Accessories phone products brand such as Sony, Samsung, Apple, Google, BlackBerry, HTC, Nokia, LG, Oppo, Huawei, Xiaomi, Vivo, Asus, Sugar, OnePlus and Tablet Watch Headsets.",
+                    "SPS_Yim Siden Cambodiaaa Phone Accessories Store is the shop that offers variety of Accessories phone products brand such as Sony, Samsung, Apple, Google, BlackBerry, HTC, Nokia, LG, Oppo, Huawei, Xiaomi, Vivo, Asus, Sugar, OnePlus and Tablet Watch Headsets.",
                     textAlign: TextAlign.justify,
                     style: TextStyle(
                       height: 1.5,
